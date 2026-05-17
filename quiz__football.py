@@ -24,7 +24,31 @@ questions = [
     "choix": ["A) Barcelona", "B) Bayern", "C) Real Madrid", "D) Liverpool"],
     "reponse": "C"
   },
-  # Ghassen ajoutera ses 5 questions ici 
+{
+    "question": "Combien de Ballons d'Or pour Messi ?",
+    "choix": ["A) 5", "B) 6", "C) 7", "D) 8"],
+    "reponse": "D"
+  },
+  {
+    "question": "Quel pays a invente le football ?",
+    "choix": ["A) France", "B) Espagne", "C) Angleterre", "D) Bresil"],
+    "reponse": "C"
+  },
+  {
+    "question": "Combien de cartons jaunes = expulsion ?",
+    "choix": ["A) 1", "B) 2", "C) 3", "D) 4"],
+    "reponse": "B"
+  },
+  {
+    "question": "Coupe du Monde 2026 : quel pays ?",
+    "choix": ["A) Espagne", "B) USA/Canada/Mexique", "C) Qatar", "D) Australie"],
+    "reponse": "B"
+  },
+  {
+    "question": "Meilleur buteur Coupe du Monde histoire ?",
+    "choix": ["A) Pele", "B) Messi", "C) Ronaldo", "D) Klose"],
+    "reponse": "D"
+  },
 ]
 
 def jouer():
